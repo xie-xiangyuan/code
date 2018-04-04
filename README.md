@@ -1,3 +1,3 @@
 
 welcome!
-it is a personal code.doc
+it is a personal doc repository.
