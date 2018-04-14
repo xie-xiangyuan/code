@@ -1,3 +1,1 @@
-
-welcome!
-it is a personal doc repository.
+有用的网站、文档、代码片段
