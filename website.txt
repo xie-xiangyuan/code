@@ -14,3 +14,4 @@ http://www.icourse163.org/course/CAU-45006?tid=1002164003#/info
 http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4650.html?foxtrotcallback=true
 https://abseil.io/about/philosophy
 http://eyehere.net/2011/python-pygame-novice-professional-index/
+https://github.com/mahmoud/awesome-python-applications
